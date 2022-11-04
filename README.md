@@ -25,18 +25,18 @@ This title is rated TEEN for mild violence and depictions of blood and despair. 
 CONTROLS
 /////////////////
 
-MOVEMENT
+MOVEMENT:
 W - Walk forward
 A - Walk to the side (left)
 S - Walk backwards
 D - Walk to the side (right)
 LSHIFT - Sprint
 
-EQUIPMENT
+EQUIPMENT:
 F - Flashlight
 E - Interact
 
-OTHERS
+OTHERS:
 ESC - Pause game
 
 /////////////////
